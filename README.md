@@ -1,6 +1,6 @@
 Welcome to React Paint!
 
-This react web app is inspired by MS paint. After you pull, don't forget to run npm i to install packages.
+This react web app is inspired by MS paint. After you pull, cd into the paint directory and run npm i to install packages.
 Once the packages are installed, you can:
 
 - Click on the pencil icon to colour individual squares (note the default colour is grey)
